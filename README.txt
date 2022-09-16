@@ -18,4 +18,8 @@ Abrir o Ankama Launcher>Clicar na engrenagem abaixo do botão de jogar (OPÇÕES
 Ao chegar na pasta retroclient basta modificar o arquivo loader pelo arquivo baixado.
 Recomenda-se salvar o loader antigo em outra pasta.
 
+COMO UTILIZAR:
+Atráves do comando "/menu"
+Imagem em anexo "unknown.png"
+
 OBS: NÃO NOS RESPONSABILIZAMOS PELO SEU USO E POR QUAISQUER PUNIÇÕES QUE O MESMO POR VENTURA VIER A OCASIONAR.
