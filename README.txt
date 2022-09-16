@@ -1,6 +1,8 @@
 # dofus loader retro
 
--Atualizado 14/09/2022
+-Atualizado 15/09/2022
+
+Obs: Comando "/join" desabilitado.
 
 Estão se utilizando da ferramenta para interesses individualistas buscando lucro, para acabar com a venda ilegal do script, estou disponibilizando o mesmo de forma GRATUITA.
 Pelas imagens em anexo é possível ver a origem do script.
