@@ -7,10 +7,11 @@ Fix skipturn
 
 ----------------------
 
-Estão utilizando a ferramenta como fonte de renda, para acabar com a venda buscando benefício próprio estou disponibilizando o script TOTALMENTE GRÁTIS!!!
-Origem do script na pasta "EVIDENCE"
+-Estão utilizando a ferramenta como fonte de renda, para acabar com a venda buscando benefício próprio estou disponibilizando o script TOTALMENTE GRÁTIS!!!
 
-O SCRIPT SERÁ ATUALIZADO CONFORME A NECESSIDADE E POSTADO AQUI NESTE REPOSITÓRIO.
+-Origem do script na pasta "EVIDENCE"
+
+-O SCRIPT SERÁ ATUALIZADO CONFORME A NECESSIDADE E POSTADO AQUI NESTE REPOSITÓRIO.
 
 COMO CONFIGURAR:
 Abrir o Ankama Launcher>Clicar na engrenagem abaixo do botão de jogar (OPÇÕES DO JOGO)> Pasta do jogo> Abrir a pasta do jogo>resources>app>retroclient
