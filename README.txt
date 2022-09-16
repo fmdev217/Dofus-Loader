@@ -1,15 +1,20 @@
-# dofus loader retro
+# loader dofus-retro
 
 -Atualizado 16/09/2022
 
 Fix join
 Fix skipturn
 
-Estão se utilizando da ferramenta para interesses individualistas buscando lucro, para acabar com a venda ilegal do script, estou disponibilizando o mesmo de forma GRATUITA.
-Pelas imagens em anexo é possível ver a origem do script.
-O SCRIPT SERÁ ATUALIZADO CONFORME A NECESSIDADE POR AQUI.
+----------------------
+
+Estão utilizando a ferramenta como fonte de renda, para acabar com a venda buscando benefício próprio estou disponibilizando o script TOTALMENTE GRÁTIS!!!
+Origem do script na pasta "EVIDENCE"
+
+O SCRIPT SERÁ ATUALIZADO CONFORME A NECESSIDADE E POSTADO AQUI NESTE REPOSITÓRIO.
+
 COMO CONFIGURAR:
 Abrir o Ankama Launcher>Clicar na engrenagem abaixo do botão de jogar (OPÇÕES DO JOGO)> Pasta do jogo> Abrir a pasta do jogo>resources>app>retroclient
 Ao chegar na pasta retroclient basta modificar o arquivo loader pelo arquivo baixado.
 Recomenda-se salvar o loader antigo em outra pasta.
-OBS: NÃO NOS RESPONSABILIZAMOS PELO USO DA FERRAMENTA E POR QUAISQUER PUNIÇÕES QUE O MESMO POR VENTURA VIER A OCASIONAR.
+
+OBS: NÃO NOS RESPONSABILIZAMOS PELO SEU USO E POR QUAISQUER PUNIÇÕES QUE O MESMO POR VENTURA VIER A OCASIONAR.
