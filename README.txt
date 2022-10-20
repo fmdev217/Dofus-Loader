@@ -15,7 +15,7 @@ Não. No máximo poderia ensinar a modificá-lo você mesmo, porém, será neces
 2:Qual o motivo de parar as atualizações?
 Como mencionado anteriormente, esta parece ser uma boa oportunidade de encerrar o uso desta ferramenta.
 Se não existe venda de terceiros, não existe motivo para atualiza-lo visto que eu não pretendo praticar venda de código alheio.
-(Como se sentiriam se tivessem criado algo difícil de fazer e um de seus clientes começasse a vender pela metade do preço?) 
+(Como se sentiriam se tivessem criado algo difícil de fazer e um de seus clientes começasse a vender pela metade do preço?). 
 
 
 - Atualização 16/09/22
